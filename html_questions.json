@@ -1,0 +1,74 @@
+[
+  {
+      "title": "Quelle équipe a remporté la Coupe du Monde 2018 ?",
+      "answer_1": "Brésil",
+      "answer_2": "Allemagne",
+      "answer_3": "France",
+      "answer_4": "Argentine",
+      "right_answer": "France"
+  },
+  {
+      "title": "Qui a été le meilleur buteur de la Coupe du Monde 2014 ?",
+      "answer_1": "Lionel Messi",
+      "answer_2": "Thomas Müller",
+      "answer_3": "James Rodríguez",
+      "answer_4": "Neymar",
+      "right_answer": "James Rodríguez"
+  },
+  {
+      "title": "Quel pays a organisé la Coupe du Monde 2006 ?",
+      "answer_1": "Japon",
+      "answer_2": "Allemagne",
+      "answer_3": "Corée du Sud",
+      "answer_4": "Italie",
+      "right_answer": "Allemagne"
+  },
+  {
+      "title": "Combien de fois l'Italie a-t-elle remporté la Coupe du Monde ?",
+      "answer_1": "2",
+      "answer_2": "3",
+      "answer_3": "4",
+      "answer_4": "5",
+      "right_answer": "4"
+  },
+  {
+      "title": "Qui a marqué le but décisif en finale de la Coupe du Monde 2010 ?",
+      "answer_1": "Xavi",
+      "answer_2": "Andrés Iniesta",
+      "answer_3": "David Villa",
+      "answer_4": "Fernando Torres",
+      "right_answer": "Andrés Iniesta"
+  },
+  {
+      "title": "Quel joueur a remporté le Ballon d'Or de la Coupe du Monde 2018 ?",
+      "answer_1": "Luka Modrić",
+      "answer_2": "Kylian Mbappé",
+      "answer_3": "Antoine Griezmann",
+      "answer_4": "Harry Kane",
+      "right_answer": "Luka Modrić"
+  },
+  {
+      "title": "Quel pays a remporté la première Coupe du Monde en 1930 ?",
+      "answer_1": "Argentine",
+      "answer_2": "Brésil",
+      "answer_3": "Uruguay",
+      "answer_4": "Italie",
+      "right_answer": "Uruguay"
+  },
+  {
+    "title": "Qui a marqué pour le Maroc face à la Croatie dans le match pour la troisième place de la Coupe du Monde 2022 ?",
+    "answer_1": "Achraf Hakimi",
+    "answer_2": "Youssef En-Nesyri",
+    "answer_3": "Hakim Ziyech",
+    "answer_4": "Achraf Dari",
+    "right_answer": "Achraf Dari"
+  },
+  {
+      "title": "Quel joueur détient le record du nombre de buts en Coupe du Monde ?",
+      "answer_1": "Pelé",
+      "answer_2": "Miroslav Klose",
+      "answer_3": "Ronaldo",
+      "answer_4": "Gerd Müller",
+      "right_answer": "Miroslav Klose"
+  }
+]
